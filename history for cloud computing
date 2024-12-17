@@ -1,0 +1,563 @@
+1  sudo apt-get update
+    2  sudo apt-get upgrade
+    3  sudo apt upgrade
+    4  sudo apt-get upgrade
+    5  sudo apt install build-essential
+    6  gcc --version
+    7  g++ version
+    8  g++ --version
+    9  gedit simple.c
+   10  gcc simple.c
+   11  ./a.out
+   12  gedit quo.c
+   13  gcc quo.c
+   14  ./a.out
+   15  gcc quo.c
+   16  ./a.out
+   17  gedit simple.gcc
+   18  g++ simple.gcc
+   19  java -version
+   20  javac -version
+   21  clear
+   22  java --version
+   23  javac --version
+   24  sudo apt install openjdk-8-jre-headless && sudo apt install openjdk-8-jdk-headless
+   25  java -version
+   26  javac -version
+   27  whereis java
+   28  gedit sum.java
+   29  javac
+   30  javac sum.java
+   31  java sum
+   32  java.sum
+   33  java sum.java
+   34  gedit HelloWorld.java
+   35  javac HelloWorld.java
+   36  java HelloWorld
+   37  gedit Main.java
+   38  javac Main.java
+   39  java Main
+   40  gedit First.java
+   41  javac First.java
+   42  gedit HelloWorld1.java
+   43  javac HelloWorld1.java
+   44  appletviewer HelloWorld1.java
+   45  sudo apt install openjdk-8-jdk
+   46  javac HelloWorld1.java
+   47  appletviewer HelloWorld1.java
+   48  javac 
+   49  java -version
+   50  javac -version
+   51  sudo reboot
+   52  ls
+   53  javac HelloWorld1.java
+   54  appletviewer HelloWorld1.java
+   55  javac First.java
+   56  javac HelloWorld.java
+   57  appletviewer HelloWorld.java
+   58  cd Downloads/
+   59  ls
+   60  javac First.java\
+   61  javac First.java
+   62  appletviewer First.java
+   63  javac DigitalClock.java
+   64  appletviewer DigitalClock.java
+   65  javac GraphicsDemo.java
+   66  appletviewer GraphicsDemo.java
+   67  gedit HelloWorld.java
+   68  javac HelloWorld.java
+   69  appletviewer HelloWorld.java
+   70  ls
+   71  gedit Smiley.java
+   72  javac Smiley.java
+   73  appletviewer Smiley.java
+   74  snap find netbeans
+   75  sudo snap install netbeans --classic
+   76  sudo apt-get update
+   77  sudo apt install virtualbox
+   78  ipaddr
+   79  ipconfig
+   80  ipconfg
+   81  ipconfig
+   82  ping 172.18.1.51
+   83  ifconfig
+   84  sudo apt install net-tools
+   85  ifconfig
+   86  sudo apt-get update
+   87  sudo apt install samba
+   88  ping 172.18.1.52
+   89  whereis samba
+   90  ping 172.18.1.51
+   91  sudo service smbd restart
+   92  exit
+   93  sudo service smbd reload
+   94  sudo apt install samba
+   95  sudo apt update
+   96  sudo sytemctl status smbd
+   97  sudo systemctl status
+   98  hostname
+   99  ip a
+  100  sudo apt install samba -y
+  101  sudo systemctl enable -- smbd
+  102  sudo systemctl status smbd
+  103  sudo systemctl smbd status
+  104  cd /
+  105  clear
+  106  vim
+  107  sudo apt install vim
+  108  clear
+  109  vim
+  110  sudo apt install vim
+  111  clear
+  112  vim
+  113  sudo apt install
+  114  sudo apt --fix-broken install
+  115  vim
+  116  sudo apt install vim 
+  117  vi
+  118  cd /
+  119  clear
+  120  vi
+  121  cd /
+  122  clear
+  123  vi
+  124  vi file1.txt
+  125  cd /
+  126  clear
+  127  nano file5.txt
+  128  cd /
+  129  clear
+  130  ls
+  131  cd home
+  132  ls
+  133  cd skacas
+  134  cd administrator
+  135  cd Desktop
+  136  mkdir cloud 
+  137  touch file1.txt
+  138  file2.txt
+  139  cd cloud 
+  140  file1.txt
+  141  touch file1.txt
+  142  touch file2.txt
+  143  pwd
+  144  echo -e 
+  145  echo -e "welcome"
+  146  ls
+  147  echo -e "welcome to cloud computing" file1.txt
+  148  pwd
+  149  cd file1.txt
+  150  echo "welcome to cloud computing" file1.txt
+  151  pwd
+  152  clear
+  153  cd /
+  154  clear
+  155  ls
+  156  cd home
+  157  ls
+  158  cd administrator
+  159  ls
+  160  cd Desktop
+  161  ls
+  162  mkdir cloud
+  163  touch file1.txt
+  164  cd cloud 
+  165  ls
+  166  pwd
+  167  touch file1.txt
+  168  touch file2.txt
+  169  echo "hi how are you" file1.txt
+  170  echo "how are you" > file1.txt
+  171  echo "hii cloud computing" > file2.txt
+  172  grep -r -l file1.txt > file2.txt
+  173  grep -r -l file1.txt file2.txt
+  174  echo "happy morning
+  175  "
+  176  echo " happy morning" file2.txt
+  177  echo "happy morning" > file2.txt
+  178  grep -r -l "a*" file1.txt file2.txt
+  179  grep -r -l "l*" file1.txt file2.txt
+  180  cat file1.txt
+  181  cat file2.txt
+  182  grep "am" file1.txt | wc -1
+  183  grep "am" file1.txtb | wc -l
+  184  grep "ho" file.txt | wc -l
+  185  grep " ho" file1.txt | wc -l
+  186  grep "ho" file1.txt |
+  187  grep "ho" file1.txt | wc -l
+  188  cat file1.txt
+  189  useradd
+  190  useradd manoj
+  191  sudo useradd manoj
+  192  cat /etc/passwd
+  193  clear
+  194  cd /
+  195  clear
+  196  cd home
+  197  ls
+  198  cd administrator
+  199  cd Desktop
+  200  ls
+  201  cd cloud
+  202  cat > file1.txt
+  203  cat file1.txt
+  204  clear
+  205  ls
+  206  cat  
+  207  cat file1.txt
+  208  clear
+  209  cd /
+  210  clear
+  211  cd home
+  212  ls
+  213  cd administrator
+  214  ls
+  215  cd Desktop
+  216  ls
+  217  cd cloud 
+  218  cat > file3.txt
+  219  cat file3.txt | wc -l
+  220  cat file3.txt | wc -w
+  221  cat file3.txt | wc -c
+  222  clear
+  223  cd /
+  224  clear
+  225  cd home 
+  226  ls
+  227  cd administrator
+  228  cd Desktop
+  229  ls -ld
+  230  cat / etc / passwd
+  231  cat /etc/passwd
+  232  cd ..
+  233  cd home
+  234  cd Desktop
+  235  cd /
+  236  clear
+  237  vim
+  238  clear
+  239  cd /
+  240  clear
+  241  cd home
+  242  ls
+  243  cd administrator
+  244  ls
+  245  cd Desktop
+  246  cd cloud
+  247  cd ..
+  248  clear
+  249  cd /
+  250  clear
+  251  ls
+  252  ls -l
+  253  cd home
+  254  ls
+  255  cd administrator
+  256  ls
+  257  cd Desktop
+  258  ls
+  259  mkdir cloud
+  260  cd cloud
+  261  touch file.txt
+  262  adduser
+  263  sudo /etc/passwd
+  264  cat > file.txt
+  265  clear
+  266  cd /
+  267  clear
+  268  sudo useradd dharanish 
+  269  clear
+  270  cd /
+  271  sudo useradd dharanish
+  272  su dharanish
+  273  sudo passwd dharanish 
+  274  cat file.txt
+  275  cat > file.txt
+  276  cat /etc/passwd
+  277  su dharanish
+  278  cd /
+  279  clear
+  280  sudo useradd dharanish
+  281  sudo /etc/passwd
+  282  user passwd
+  283  sudo passwd dharanish
+  284  su dharanish
+  285  cd ..
+  286  ls
+  287  cd home
+  288  ls
+  289  cd administrator
+  290  cd Desktop
+  291  touch file.txt
+  292  su dharanish
+  293  cat file.txt
+  294  cat > file.txt
+  295  cat file.txt
+  296  sudo userdel dharanish 
+  297  sudo userdel -f dharanish
+  298  cat /etc/passwd
+  299  sudo userdel -f manoj
+  300  cat /etc/passwd
+  301  clear
+  302  cd /
+  303  clear
+  304  git up
+  305  clear
+  306  cd /
+  307  clear
+  308  nano script.sh
+  309  cd /
+  310  cd home
+  311  ls
+  312  cd administrator
+  313  cd Desktop
+  314  nano script.sh
+  315  ./script.sh
+  316  chmod +x script.sh
+  317  ./script.sh
+  318  nano script.sh
+  319  ./script.sh 
+  320  nano script.sh
+  321  ./script.sh 
+  322  nano script.sh
+  323  ./script.sh 
+  324  nano script.sh
+  325  ./script.sh 
+  326  nano script.sh
+  327  ./script.sh 
+  328  nano script.sh
+  329  ./script.sh 
+  330  nano script.sh
+  331  ./script.sh 
+  332  nano script.sh
+  333  ./script.sh 
+  334  nano script.sh
+  335  ./script.sh 
+  336  nano script.sh
+  337  ./script.sh 
+  338  cd /
+  339  clear
+  340  cd home
+  341  ls
+  342  cd administrator
+  343  ls
+  344  cd Desktop
+  345  ls
+  346  nano script1.sh
+  347  vi
+  348  top
+  349  q
+  350  nano script1.sh
+  351  ls
+  352  cd Home
+  353  ls
+  354  cd home
+  355  cd /
+  356  clear
+  357  ls
+  358  cd home
+  359  ls
+  360  cd administrator
+  361  ls
+  362  cd Desktop
+  363  nano script.sh
+  364  cd /
+  365  sudo apt update
+  366  sudo apt install git
+  367  git--version
+  368  git --version
+  369  cd /
+  370  ls
+  371  git
+  372  cd /
+  373  clear
+  374  cd home
+  375  ls
+  376  cd administrator
+  377  ls
+  378  cd Desktop
+  379  cd /
+  380  clear
+  381  cd home
+  382  ls
+  383  cd administrator
+  384  cd Desktop
+  385  ls
+  386  git --version
+  387  mkdir cloud
+  388  cd cloud
+  389  git init
+  390  git config --list
+  391  git config --global user.name "dharanish001"
+  392  git config --list
+  393  git config --global user.gmail "rajandharanish22@gmail.com"
+  394  git config --list
+  395  git config --global init.defaultbtanch main
+  396  git config --list
+  397  git config --global core.eof lf
+  398  git config --global core.eol lf
+  399  git config --list
+  400  git config --global core.ignorecase true
+  401  git config --list
+  402  git config --global core.ignorecase true
+  403  git config --list
+  404  git config --global core.ignorecase true
+  405  git config --global core.autocrlf input
+  406  git config --list
+  407  git config --global init.defaultbranch main
+  408  git config --list
+  409  clear
+  410  git config --list
+  411  ls
+  412  clear
+  413  ls
+  414  git clone https://github.com/Dharanish001/democloud.git
+  415  ls
+  416  cd democloud
+  417  touch file.txt
+  418  ls
+  419  git add file.txt
+  420  cat > file.txt
+  421  git commit -m "first commit"
+  422  ls
+  423  git config --global user.email "rajandharanish22@gmail.com"
+  424  git config --global user.name dharanish001
+  425  git commit -m "first commit"
+  426  git status
+  427  git add file file.txt
+  428  git add file.txt
+  429  git status
+  430  git commit -m "second commit"
+  431  git status
+  432  git push origin main
+  433  git remote -v
+  434  git remote set-url origin "http://ghp_wK5F9FJXBZGW2Mze5iYBVEYQ0tgy6c3wKlt5@github.com/Dharanish001/demofile"
+  435  git remote -v
+  436  git status
+  437  git push origin main
+  438  git clone  "http://ghp_wK5F9FJXBZGW2Mze5iYBVEYQ0tgy6c3wKlt5@github.com/Dharanish001/demofile.git"
+  439  git clone "https://ghp_wK5F9FJXBZGW2Mze5iYBVEYQ0tgy6c3wKlt5@github.com/Dharanish001/demofile.git"
+  440  git clone "http://ghp_wK5F9FJXBZGW2Mze5iYBVEYQ0tgy6c3wKlt5@github.com/Dharanish001/demofile.git"
+  441  cd ..
+  442  cd /
+  443  cd home
+  444  ls
+  445  cd administrator
+  446  ls
+  447  cd Desktop
+  448  ls
+  449  mkdir cloud1
+  450  touch test.txt
+  451  cd cloud1
+  452  touch test.txt
+  453  ls
+  454  cd gittest
+  455  cd init
+  456  cd cloud1
+  457  git add gittest
+  458  git status
+  459  git clone https://github.com/Dharanish001/democloud.git
+  460  git add file test.txt
+  461  git status
+  462  touch file.txt
+  463  git init
+  464  git add test.txt
+  465  cd ..
+  466  cd homw
+  467  cd /
+  468  cd ..
+  469  ls
+  470  cd home
+  471  ls
+  472  cd administrator
+  473  cd Desktop
+  474  ls
+  475  clear
+  476  history
+  477  clear
+  478  cd /
+  479  clear
+  480  cd home
+  481  ls
+  482  cd administrator
+  483  ls
+  484  cd Desktop
+  485  mkdir mailserver
+  486  cd mailserver
+  487  mkdir example.com
+  488  mkdir example.net
+  489  cd example.com
+  490  touch user1
+  491  cd ..
+  492  cd example.net
+  493  touch user2
+  494  cd ..
+  495  mkdir mail_backup
+  496  cd example.com
+  497  cat welcome to the cloud computing user1
+  498  cat > welcome to cloud computing example.com
+  499  cat user1
+  500  cat > user1
+  501  cat user1
+  502  mv user1 mail_backup
+  503  cd /
+  504  clear
+  505  ls
+  506  cd home
+  507  cd administrator
+  508  cd Desktop
+  509  cd mailserver
+  510  cd example.com
+  511  touch user1
+  512  cat > user1
+  513  cd ..
+  514  cd mail_backup
+  515  mv user1 mail_backup
+  516  cd ..
+  517  cd example.com
+  518  cv user1 mail_backup
+  519  mv user1 mail_backup
+  520  mv mail_backup message _important.eml
+  521  cd ..
+  522  mv mail_backup message_important.eml
+  523  ls
+  524  pwd
+  525  desktop/mailserver
+  526  cd ..
+  527  cd mailserver
+  528  touch mail_config.txt
+  529  chmod +r +w mail_config.txt
+  530  chmod 767 mail_config.txt
+  531  ll
+  532  cp mail_config.txt mail_backup
+  533  cat > mail_config.txt
+  534  cp mail_confif.txt mail_backup
+  535  cp mail_config.txt mail_backup
+  536  cd mail_backup
+  537  ls mail 
+  538  ls mail_backup
+  539  ls
+  540  cd example.com
+  541  rm mail_backup
+  542  cd ..
+  543  rm example.com
+  544  rm -r example.com
+  545  nano script.sh
+  546  ./script.sh
+  547  chmod script.sh
+  548  chmod 777 script.sh
+  549  ./script.sh
+  550  nano script.sh
+  551  ./script.sh
+  552  nano script.sh
+  553  ./script.sh
+  554  nano script.sh
+  555  top
+  556  ll
+  557  cd mail_backup
+  558  cat mail_backup
+  559  grep "cloud" mail_backup
+  560  history
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/mailserver$ 
+
+
